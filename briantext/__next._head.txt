@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+3:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"BrianText — 광고 없이, 읽기에만 집중 | Brian"}],["$","meta","1",{"name":"description","content":"꼭 필요한 기능만 담은 텍스트 뷰어 BrianText. 단어 검색부터 글꼴, 글자 크기, 줄 간격, 배경과 글자 색상까지 나에게 편안한 읽기 환경을 만들어 보세요."}],["$","link","2",{"rel":"canonical","href":"https://thebriancompany.github.io/briantext/"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"LBsxxnXh5u-WqcmLDK2CJ"}
